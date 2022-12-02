@@ -1,5 +1,5 @@
 .header-bg {
-    background-color: var(--cor-12);
+    background-color: var(--cor-11);
 }
 
 .header {
@@ -53,6 +53,7 @@
         background: var(--cor-11);
         padding: 12px 16px;
         border-radius: 4px;
+        margin-left: 15px;
     }
 
     .header-menu a:hover {
@@ -70,11 +71,11 @@
     }
 
     .header-menu a {
-        padding: 8px 12px;
+        padding: 8px 4px;
         font-size: 14px;
      
     }
-    .header img{
+    .header a img{
        justify-content: center;
     }
 }
