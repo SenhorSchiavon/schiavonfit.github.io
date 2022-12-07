@@ -61,3 +61,21 @@
     position: absolute;
     left: 160px;
 }
+@media (max-width:800px) {
+    
+    .sobre-conteudo{
+        grid-template-columns: 1fr;
+    }
+    .sobre-item li{
+        font-size: 1rem;
+    }
+    .sobre-conteudo a{
+        left: 50px;
+    }
+    .sobre-imagens img{
+        min-width: 80px;
+    }
+    .sobre-imagens{
+        grid-area:2/1;
+    }
+}
