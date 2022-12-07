@@ -6,3 +6,6 @@
 /* H O M E */
 @import url('./home/header.css');
 @import url('./home/introducao.css');
+
+/* S O B R E */
+@import url('./sobre/sobre.css');
